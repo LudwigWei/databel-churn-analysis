@@ -60,16 +60,16 @@ This structure separates strategic overview from diagnostic analysis while prese
 
 ## 🏆 Key Results & Strategic Insights
 
-| RQ | Research Question | Key Result | Strategic Insight |
+| Q# | Research Question | Key Result | Strategic Insight |
 | --- | --- | --- | --- |
-| RQ1 | Group Plan Retention | Individual plans churn at 32.89%, versus 7.98% for group plans. | Incentivize multi-line and family account adoption to improve retention. |
-| RQ1 | Geospatial Vulnerability | California is the highest-risk churn hotspot, followed by Texas and New York. | Investigate localized coverage, pricing, or competitor pressure in these states. |
-| RQ2 | Competitor Defection Crisis | Competitor-driven churn is the dominant root cause, led by "Competitor made better offer" and "Competitor had better devices." | Databel is losing share on pricing and hardware parity; the product and pricing strategy need immediate review. |
-| RQ2 | Attitude Defection Driver | "Attitude of support person" is a major secondary churn reason. | Improve support training and de-escalation practices to reduce avoidable churn. |
-| RQ3 | Unused International Plans | Customers paying for an International Plan but not using it show a 71.19% churn rate. | Stop upselling international features to non-travelers and rework the offer logic. |
-| RQ3 | Unlimited Data Underutilization | The highest volume of churned customers on Unlimited Data Plan fall into the lowest usage tier. | Customers are overpaying for unused capacity; reposition or simplify the plan structure. |
-| RQ4 | Customer Service Tipping Point | Churn rises sharply after the third support call, reaching 87.5% at 3 calls and 100% at 4+ calls. | Trigger an automated retention intervention by the second support ticket. |
-| RQ4 | Contract Stability | Month-to-month customers churn at 46.29%, compared with roughly 11% for 1-Year and under 3% for 2-Year contracts. | Long-term contracts materially improve retention and should be actively promoted. |
+| Q1 | Group Plan Retention | Individual plans churn at 32.89%, versus 7.98% for group plans. | Incentivize multi-line and family account adoption to improve retention. |
+| Q1 | Geospatial Vulnerability | California is the highest-risk churn hotspot, followed by Texas and New York. | Investigate localized coverage, pricing, or competitor pressure in these states. |
+| Q2 | Competitor Defection Crisis | Competitor-driven churn is the dominant root cause, led by "Competitor made better offer" and "Competitor had better devices." | Databel is losing share on pricing and hardware parity; the product and pricing strategy need immediate review. |
+| Q2 | Attitude Defection Driver | "Attitude of support person" is a major secondary churn reason. | Improve support training and de-escalation practices to reduce avoidable churn. |
+| Q3 | Unused International Plans | Customers paying for an International Plan but not using it show a 71.19% churn rate. | Stop upselling international features to non-travelers and rework the offer logic. |
+| Q3 | Unlimited Data Underutilization | The highest volume of churned customers on Unlimited Data Plan fall into the lowest usage tier. | Customers are overpaying for unused capacity; reposition or simplify the plan structure. |
+| Q4 | Customer Service Tipping Point | Churn rises sharply after the third support call, reaching 87.5% at 3 calls and 100% at 4+ calls. | Trigger an automated retention intervention by the second support ticket. |
+| Q4 | Contract Stability | Month-to-month customers churn at 46.29%, compared with roughly 11% for 1-Year and under 3% for 2-Year contracts. | Long-term contracts materially improve retention and should be actively promoted. |
 
 ---
 
