@@ -70,6 +70,7 @@ This structure separates strategic overview from diagnostic analysis while prese
 | Q3 | Unlimited Data Underutilization | The highest volume of churned customers on Unlimited Data Plan fall into the lowest usage tier. | Customers are overpaying for unused capacity; reposition or simplify the plan structure. |
 | Q4 | Customer Service Tipping Point | Churn rises sharply after the third support call, reaching 87.5% at 3 calls and 100% at 4+ calls. | Trigger an automated retention intervention by the second support ticket. |
 | Q4 | Contract Stability | Month-to-month customers churn at 46.29%, compared with roughly 11% for 1-Year and under 3% for 2-Year contracts. | Long-term contracts materially improve retention and should be actively promoted. |
+| Q4 | Tenure Stabilization Effect | A strong inverse relationship exists between account tenure and defection, with newer accounts holding the highest flight risk. | Front-load onboarding programs and retention incentives to push new customers past the early volatility window. |
 
 ---
 
